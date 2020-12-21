@@ -1,0 +1,13 @@
+C:\Users\sistemas\source\repos\CapasPrueba\Datos\bin\Debug\Datos.dll
+C:\Users\sistemas\source\repos\CapasPrueba\Datos\bin\Debug\Datos.pdb
+C:\Users\sistemas\source\repos\CapasPrueba\Datos\bin\Debug\Entidad.dll
+C:\Users\sistemas\source\repos\CapasPrueba\Datos\bin\Debug\RestSharp.dll
+C:\Users\sistemas\source\repos\CapasPrueba\Datos\bin\Debug\Entidad.pdb
+C:\Users\sistemas\source\repos\CapasPrueba\Datos\bin\Debug\RestSharp.xml
+C:\Users\sistemas\source\repos\CapasPrueba\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\sistemas\source\repos\CapasPrueba\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\sistemas\source\repos\CapasPrueba\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\sistemas\source\repos\CapasPrueba\Datos\obj\Debug\Datos.dll
+C:\Users\sistemas\source\repos\CapasPrueba\Datos\obj\Debug\Datos.pdb
+C:\Users\sistemas\source\repos\CapasPrueba\Datos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sistemas\source\repos\CapasPrueba\Datos\bin\Debug\Newtonsoft.Json.xml

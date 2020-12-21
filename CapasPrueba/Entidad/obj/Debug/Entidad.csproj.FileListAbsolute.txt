@@ -1,0 +1,11 @@
+C:\Users\sistemas\source\repos\CapasPrueba\Entidad\bin\Debug\Entidad.dll
+C:\Users\sistemas\source\repos\CapasPrueba\Entidad\bin\Debug\Entidad.pdb
+C:\Users\sistemas\source\repos\CapasPrueba\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\sistemas\source\repos\CapasPrueba\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\sistemas\source\repos\CapasPrueba\Entidad\obj\Debug\Entidad.dll
+C:\Users\sistemas\source\repos\CapasPrueba\Entidad\obj\Debug\Entidad.pdb
+C:\Users\sistemas\source\repos\CapasPrueba\Entidad\bin\Debug\RestSharp.dll
+C:\Users\sistemas\source\repos\CapasPrueba\Entidad\bin\Debug\RestSharp.xml
+C:\Users\sistemas\source\repos\CapasPrueba\Entidad\obj\Debug\Entidad.csproj.CopyComplete
+C:\Users\sistemas\source\repos\CapasPrueba\Entidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sistemas\source\repos\CapasPrueba\Entidad\bin\Debug\Newtonsoft.Json.xml
